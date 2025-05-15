@@ -1,50 +1,32 @@
-> Hello world 👨🏻‍💻  
-GitHub: [gchaknalwar](https://github.com/gchaknalwar) | Twitter: [@gchaknalwar](https://x.com/255_Boss) | LinkedIn: [Govind Chaknalwar](https://www.linkedin.com/in/govind-chaknalwar-b35278215/)
+<h1 align="center">Hi 👋, I'm Govind Chaknalwar</h1>
+<h3 align="center">🚀 Full Stack Java Developer | Passionate Coder | Learner</h3>
 
-Hi, I'm Govind Chaknalwar, a passionate Full Stack Java Developer from Chandrapur, Maharashtra, India 🇮🇳, who loves building robust applications and solving problems through code.  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-Throughout my journey, I've worked with Java, JDBC, MySQL, and started exploring frameworks like Spring Boot and frontend technologies like React. I enjoy writing clean, efficient code and learning new tools to improve my craft.
+- 🔭 I’m currently working on **Java Full Stack Projects**
+- 🌱 I’m currently learning **Spring Boot, React, and System Design**
+- 💬 Ask me about **Java, JDBC, GitHub, and Project Building**
+- 📫 How to reach me: **chaknalwargovind@gmail.com**
+- ⚡ Fun fact: I 💡 believe in **Code. Coffee. Repeat.**
 
-My focus is on becoming a skilled full stack developer, creating scalable and maintainable software solutions. I believe in continuous learning and sharing knowledge with the developer community.
+---
 
-If you'd like to learn more about me and my projects, feel free to connect with me on social platforms below. Let’s build something amazing together!
+### 🛠 Languages and Tools:
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 
 ---
 
-### 🌐 Connect with me
+### 📊 GitHub Stats:
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gchaknalwar)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/255_Boss)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-chaknalwar-b35278215/)
-
-
-
-# Hi there 👋, I'm Govind Chaknalwar
-
-## 🚀 About Me
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m learning Full Stack Java Development
-- 👯 I’m looking to collaborate on MERN stack projects
-- 💬 Ask me about Java, React, Node.js, MongoDB
-- 📫 How to reach me: [Email or LinkedIn link]
-
-## 🛠️ Skills
-- Languages: Java, JavaScript, TypeScript, Python
-- Frameworks: React, Node.js, Express, Spring Boot
-- Databases: MongoDB, MySQL
-- Tools: Git, Docker, VSCode
-
-## 📈 GitHub Stats
-
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourprofile)
-
-## 💻 Featured Projects
-- [Project1](link): Description
-- [Project2](link): Description
+![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=gchaknalwar&show_icons=true&theme=radical)
 
 ---
-*“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
