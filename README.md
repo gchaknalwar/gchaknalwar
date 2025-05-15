@@ -52,10 +52,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/govind-chaknalwar-b35278215/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:gchaknalwar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=govindchaknalwar&label=Profile%20views&color=0e75b6&style=flat" alt="govindchaknalwar" />
-</p>
-
