@@ -1,148 +1,207 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Govind%20Chaknalwar&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React&descAlignY=58&descSize=18&descColor=64ffda" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=Govind%20Chaknalwar&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20|%20Spring%20Boot%20|%20React.js&descAlignY=58&descColor=E2E8F0"/>
 
-### 💻 Full Stack Developer | Java · Spring Boot · React.js
-### 🎯 Actively seeking Full Stack / Java Developer roles
+# Hi, I'm Govind 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-chaknalwar-b35278215/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gchaknalwar@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-2c5364?style=flat&logo=googledrive&logoColor=white)](#)
+### Full Stack Developer | Java | Spring Boot | React.js | MERN Stack
 
-</div>
-
-<br/>
-
-## 👋 About Me
-
-I'm a **Full Stack Developer** with hands-on experience building scalable, secure, and responsive web applications using **React.js** and **Spring Boot**. I enjoy solving real-world problems through clean architecture, well-designed REST APIs, and performance-focused code.
-
-- 🔭 Currently building full-stack projects with **React.js**, **Spring Boot**, and **MongoDB/MySQL**
-- 🌱 Continuously strengthening my skills in **system design** and **cloud fundamentals**
-- 💼 Open to **Full Stack Developer** and **Java Developer** opportunities
-- ⚡ Fun fact: I like turning ideas into working products end-to-end — frontend to database
-
-<br/>
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛍️ VogueVault
-**Full Stack E-Commerce Platform**
-
-MERN-based textile e-commerce platform with user authentication, product management, cart system, and a fully responsive UI.
-
-**Tech:** MongoDB · Express.js · React.js · Node.js · JWT
-
-[🔗 View Repo](#)
-
-</td>
-<td width="50%">
-
-### 🏦 Online Banking System
-**Secure Banking Application**
-
-Banking application with JWT-based authentication, role-based access control, and transaction management built on a robust REST API.
-
-**Tech:** Spring Boot · MySQL · REST APIs · JWT
-
-[🔗 View Repo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✈️ Flight Booking Application
-**Full Stack Booking System**
-
-End-to-end flight booking system with user authentication and seamless integration between a React frontend and Spring Boot backend.
-
-**Tech:** React.js · Spring Boot · MySQL
-
-[🔗 View Repo](#)
-
-</td>
-<td width="50%">
-
-### ➕ Have another project?
-Add your next build here — internships, hackathons, or personal projects all count.
-
-**Tech:** Your stack here
-
-[🔗 View Repo](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 💡 **Tip:** Replace the `#` links above with your actual repo URLs so recruiters can click straight through to your code.
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gchaknalwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gchaknalwar&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm currently looking for **Full Stack / Java Developer** opportunities — feel free to reach out!
+<img src="https://komarev.com/ghpvc/?username=gchaknalwar&label=Profile%20Views&color=2563EB&style=flat" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-chaknalwar-b35278215/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gchaknalwar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gchaknalwar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
+---
+
+# 👨‍💻 About Me
+
+I'm a **Full Stack Developer** passionate about building scalable, secure, and user-centric web applications.
+
+I enjoy transforming ideas into production-ready software by designing responsive frontends, developing robust backend APIs, and building efficient database architectures.
+
+My primary expertise lies in **Java**, **Spring Boot**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **MySQL**.
+
+I continuously improve my problem-solving skills, write clean and maintainable code, and enjoy collaborating within Agile development teams to deliver high-quality software.
+
+---
+
+# 💼 Professional Highlights
+
+✔ Full Stack Web Development
+
+✔ Java & Spring Boot Development
+
+✔ MERN Stack Development
+
+✔ REST API Design & Development
+
+✔ Authentication & Authorization (JWT)
+
+✔ Responsive UI Development
+
+✔ Database Design & Optimization
+
+✔ Clean Code & Software Engineering Principles
+
+✔ Git & GitHub Version Control
+
+✔ Agile Development
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛍 VogueVault
+
+### Full Stack E-Commerce Platform
+
+Developed a scalable MERN Stack e-commerce platform featuring secure JWT authentication, product management, shopping cart functionality, order processing, and a fully responsive user interface.
+
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB • JWT
+
+🔗 **Repository:** https://github.com/yourusername/VogueVault
+
+---
+
+## 🏦 Online Banking System
+
+### Secure Banking Application
+
+Designed and developed a Spring Boot banking application with secure authentication, role-based authorization, account management, fund transfers, transaction history, and RESTful APIs.
+
+**Tech Stack**
+
+Java • Spring Boot • MySQL • JWT
+
+🔗 **Repository:** https://github.com/yourusername/Online-Banking-System
+
+---
+
+## ✈ Flight Booking System
+
+### Full Stack Booking Application
+
+Developed a responsive flight booking application integrating a React frontend with a Spring Boot backend to provide authentication, booking management, and real-time flight services.
+
+**Tech Stack**
+
+React.js • Spring Boot • MySQL
+
+🔗 **Repository:** https://github.com/yourusername/Flight-Booking-System
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gchaknalwar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gchaknalwar&theme=tokyonight&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gchaknalwar&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gchaknalwar&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects and exploring exciting Full Stack or Java Developer opportunities.
+
+📧 **Email**
+
+**gchaknalwar@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/govind-chaknalwar-b35278215/
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
 </div>
