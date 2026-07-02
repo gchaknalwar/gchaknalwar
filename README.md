@@ -1,16 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=Govind%20Chaknalwar&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20|%20Spring%20Boot%20|%20React.js&descAlignY=58&descColor=E2E8F0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=Govind%20Chaknalwar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React.js%20|%20MERN%20Stack&descAlignY=60&descColor=E2E8F0"/>
 
-# Hi, I'm Govind 👋
+# 👋 Hello, I'm Govind Chaknalwar
 
-### Full Stack Developer | Java | Spring Boot | React.js | MERN Stack
+### Full Stack Developer • Java • Spring Boot • React.js • MERN Stack
 
-<img src="https://komarev.com/ghpvc/?username=gchaknalwar&label=Profile%20Views&color=2563EB&style=flat" />
+<p align="center">
+Building scalable web applications with clean architecture, secure REST APIs, and modern frontend technologies.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-chaknalwar-b35278215/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gchaknalwar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gchaknalwar&label=Profile%20Views&color=2563EB&style=flat"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/govind-chaknalwar-b35278215/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gchaknalwar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gchaknalwar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
@@ -18,52 +38,44 @@
 
 # 👨‍💻 About Me
 
-I'm a **Full Stack Developer** passionate about building scalable, secure, and user-centric web applications.
+I'm a **Java Full Stack Developer** passionate about building scalable, secure, and user-focused web applications using modern software engineering practices.
 
-I enjoy transforming ideas into production-ready software by designing responsive frontends, developing robust backend APIs, and building efficient database architectures.
+I have hands-on experience developing complete applications—from designing responsive user interfaces with **React.js** to building robust backend services using **Spring Boot**, **Node.js**, and **Express.js**, along with efficient database design using **MySQL**, **MongoDB**, and **PostgreSQL**.
 
-My primary expertise lies in **Java**, **Spring Boot**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **MySQL**.
+Through software development internships and personal projects, I've gained practical experience in designing REST APIs, implementing authentication and authorization with **Spring Security** and **JWT**, optimizing application performance, and collaborating in Agile environments using Git.
 
-I continuously improve my problem-solving skills, write clean and maintainable code, and enjoy collaborating within Agile development teams to deliver high-quality software.
-
----
-
-# 💼 Professional Highlights
-
-✔ Full Stack Web Development
-
-✔ Java & Spring Boot Development
-
-✔ MERN Stack Development
-
-✔ REST API Design & Development
-
-✔ Authentication & Authorization (JWT)
-
-✔ Responsive UI Development
-
-✔ Database Design & Optimization
-
-✔ Clean Code & Software Engineering Principles
-
-✔ Git & GitHub Version Control
-
-✔ Agile Development
+I enjoy solving real-world problems, continuously learning emerging technologies, and building software that creates meaningful impact.
 
 ---
 
-# 🚀 Tech Stack
+# 💼 Professional Snapshot
+
+🚀 Java Full Stack Developer
+
+💼 2 Software Development Internships
+
+🖥️ 3+ End-to-End Full Stack Projects
+
+🔐 Spring Security & JWT Authentication
+
+🌐 REST API Development
+
+⚡ Passionate about Clean Code & Software Engineering
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js" />
+<img src="https://skillicons.dev/icons?i=java,js,cpp,c" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 </p>
 
 ### Backend
@@ -75,62 +87,161 @@ I continuously improve my problem-solving skills, write clean and maintainable c
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode,idea" />
 </p>
+
+---
+
+# 💼 Professional Experience
+
+## 💻 Software Developer Intern
+### YugaYatra Retail (OPC) Pvt. Ltd.
+
+- Developed scalable full-stack applications using Java and MERN technologies.
+- Built responsive frontend components and integrated RESTful APIs.
+- Collaborated using Git in an Agile development environment.
+- Participated in sprint planning, debugging, testing, and feature implementation.
+- Leveraged Cursor AI to improve development productivity while maintaining clean, maintainable code.
+
+---
+
+## 💻 Software Developer Intern
+### OctaNet Technologies
+
+- Designed and developed responsive web applications.
+- Built reusable React.js components.
+- Developed REST APIs and integrated backend services.
+- Worked with MongoDB and MySQL databases.
+- Followed software engineering best practices for maintainable applications.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛍 VogueVault
+## 🏦 Online Banking System
 
-### Full Stack E-Commerce Platform
+Enterprise-level banking application developed using **Spring Boot** and **React.js** featuring secure authentication, role-based authorization, account management, fund transfers, transaction history, and RESTful APIs.
 
-Developed a scalable MERN Stack e-commerce platform featuring secure JWT authentication, product management, shopping cart functionality, order processing, and a fully responsive user interface.
+### Technologies
 
-**Tech Stack**
+Java • Spring Boot • Hibernate • React.js • MySQL • Spring Security • JWT
+
+⭐ Features
+
+- Secure Authentication
+- Role-Based Authorization
+- Fund Transfer
+- Transaction History
+- REST APIs
+- Responsive Dashboard
+
+🔗 Repository: YOUR_LINK
+
+---
+
+## 🛒 E-Commerce Platform
+
+A scalable MERN Stack e-commerce platform featuring secure user authentication, product management, category filtering, shopping cart, payment integration, and an admin dashboard.
+
+### Technologies
 
 React.js • Node.js • Express.js • MongoDB • JWT
 
-🔗 **Repository:** https://github.com/yourusername/VogueVault
+⭐ Features
+
+- JWT Authentication
+- Shopping Cart
+- Product Management
+- Order Tracking
+- Razorpay / Stripe Integration
+- Admin Dashboard
+- Sales Analytics
+
+🔗 Repository: YOUR_LINK
 
 ---
 
-## 🏦 Online Banking System
+## ✅ Task Management REST API
 
-### Secure Banking Application
+Production-ready REST API built using Spring Boot with task management, CRUD operations, deadline tracking, sorting, filtering, and API testing using Postman.
 
-Designed and developed a Spring Boot banking application with secure authentication, role-based authorization, account management, fund transfers, transaction history, and RESTful APIs.
+### Technologies
 
-**Tech Stack**
+Java • Spring Boot • Spring Data JPA • MySQL • Postman
 
-Java • Spring Boot • MySQL • JWT
+⭐ Features
 
-🔗 **Repository:** https://github.com/yourusername/Online-Banking-System
+- CRUD Operations
+- Task Filtering
+- Deadline Tracking
+- RESTful Architecture
+- API Documentation
 
----
-
-## ✈ Flight Booking System
-
-### Full Stack Booking Application
-
-Developed a responsive flight booking application integrating a React frontend with a Spring Boot backend to provide authentication, booking management, and real-time flight services.
-
-**Tech Stack**
-
-React.js • Spring Boot • MySQL
-
-🔗 **Repository:** https://github.com/yourusername/Flight-Booking-System
+🔗 Repository: YOUR_LINK
 
 ---
 
-# 📈 GitHub Analytics
+# 💡 Technical Expertise
+
+✔ Java Full Stack Development
+
+✔ MERN Stack Development
+
+✔ Spring Boot
+
+✔ Hibernate / JPA
+
+✔ Spring Security
+
+✔ JWT Authentication
+
+✔ RESTful API Development
+
+✔ Database Design
+
+✔ MongoDB
+
+✔ MySQL
+
+✔ PostgreSQL
+
+✔ Responsive UI Development
+
+✔ Object-Oriented Programming
+
+✔ Data Structures & Algorithms
+
+✔ Agile Methodologies
+
+✔ Git & GitHub
+
+✔ Clean Code Principles
+
+---
+
+# 📚 Currently Learning
+
+- Microservices Architecture
+
+- Docker
+
+- Kubernetes
+
+- AWS Cloud
+
+- System Design
+
+- CI/CD Pipelines
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -148,13 +259,13 @@ React.js • Spring Boot • MySQL
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gchaknalwar&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gchaknalwar&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -186,21 +297,21 @@ React.js • Spring Boot • MySQL
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on innovative projects and exploring exciting Full Stack or Java Developer opportunities.
+I'm always interested in collaborating on impactful software projects and exploring Full Stack or Java Developer opportunities.
 
-📧 **Email**
-
+📧 **Email:**  
 **gchaknalwar@gmail.com**
 
-💼 **LinkedIn**
+💼 **LinkedIn:**  
+**linkedin.com/in/govind-chaknalwar-b35278215**
 
-https://www.linkedin.com/in/govind-chaknalwar-b35278215/
+⭐ If you like my work, consider giving a star to my repositories!
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### Thanks for visiting my profile! 🚀
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
