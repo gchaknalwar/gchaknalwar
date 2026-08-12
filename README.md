@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=Govind%20Chaknalwar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React.js%20|%20MERN%20Stack&descAlignY=60&descColor=E2E8F0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=Govind%20Chaknalwar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React.js%20%7C%20JavaScript%20%7C%20Tailwind%20CSS&descAlignY=60&descColor=E2E8F0"/>
 
-# 👋 Hello, I'm Govind Chaknalwar
+# 👋 Hey, I'm Govind Chaknalwar
 
-### Full Stack Developer • Java • Spring Boot • React.js • MERN Stack
+### Frontend Engineer • React.js • JavaScript • Tailwind CSS
 
 <p align="center">
-Building scalable web applications with clean architecture, secure REST APIs, and modern frontend technologies.
+Building modern, responsive, and user-focused web experiences with React.js and modern frontend technologies.
 </p>
 
 <p align="center">
@@ -38,206 +38,246 @@ Building scalable web applications with clean architecture, secure REST APIs, an
 
 # 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** passionate about building scalable, secure, and user-focused web applications using modern software engineering practices.
+I'm a **Frontend Engineer** focused on building modern, responsive, and interactive web applications using **React.js, JavaScript, Tailwind CSS, HTML, and CSS**.
 
-I have hands-on experience developing complete applications—from designing responsive user interfaces with **React.js** to building robust backend services using **Spring Boot**, **Node.js**, and **Express.js**, along with efficient database design using **MySQL**, **MongoDB**, and **PostgreSQL**.
+I enjoy transforming ideas and designs into clean, intuitive user interfaces with a strong focus on **responsive design, reusable components, performance, accessibility, and user experience**.
 
-Through software development internships and personal projects, I've gained practical experience in designing REST APIs, implementing authentication and authorization with **Spring Security** and **JWT**, optimizing application performance, and collaborating in Agile environments using Git.
+Alongside frontend development, I have hands-on experience with **Node.js, Express.js, MongoDB, Java, Spring Boot, and REST APIs**, allowing me to understand and integrate the complete application stack.
 
-I enjoy solving real-world problems, continuously learning emerging technologies, and building software that creates meaningful impact.
+I enjoy building real-world projects, solving development problems, learning new technologies, and continuously improving my frontend engineering skills.
 
 ---
 
 # 💼 Professional Snapshot
 
-🚀 Java Full Stack Developer
+🚀 **Frontend Engineer**
 
-💼 2 Software Development Internships
+⚛️ **React.js Developer**
 
-🖥️ 3+ End-to-End Full Stack Projects
+💻 **JavaScript Developer**
 
-🔐 Spring Security & JWT Authentication
+🎨 **Tailwind CSS & Responsive UI**
 
-🌐 REST API Development
+🔗 **REST API Integration**
 
-⚡ Passionate about Clean Code & Software Engineering
+🧩 **Reusable Component Development**
+
+🛠️ **Git & GitHub**
+
+🌐 **Full-Stack Development Knowledge**
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,cpp,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode,idea" />
-</p>
+**Core:** HTML5 • CSS3 • JavaScript • React.js
+**Styling:** Tailwind CSS • Bootstrap
+**Frontend:** Responsive Design • Component Architecture • API Integration • React Router
 
 ---
 
-# 💼 Professional Experience
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring"/>
+</p>
+
+**Node.js • Express.js • Java • Spring Boot • REST APIs**
+
+---
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
+
+**MongoDB • MySQL • PostgreSQL**
+
+---
+
+### 🔧 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,vercel"/>
+</p>
+
+**Git • GitHub • VS Code • IntelliJ IDEA • Postman • Maven • Vercel**
+
+---
+
+# 💼 Experience
 
 ## 💻 Software Developer Intern
-### YugaYatra Retail (OPC) Pvt. Ltd.
 
-- Developed scalable full-stack applications using Java and MERN technologies.
-- Built responsive frontend components and integrated RESTful APIs.
-- Collaborated using Git in an Agile development environment.
-- Participated in sprint planning, debugging, testing, and feature implementation.
-- Leveraged Cursor AI to improve development productivity while maintaining clean, maintainable code.
+### Yuga Yatra Retail (OPC) Pvt. Ltd.
+
+* Developed and improved web application features using modern development technologies.
+* Built responsive user interfaces and reusable frontend components.
+* Integrated frontend functionality with backend services and APIs.
+* Worked with Git-based development workflows.
+* Debugged issues and contributed to feature implementation.
+* Used modern AI-assisted development tools to improve development productivity.
 
 ---
 
 ## 💻 Software Developer Intern
+
 ### OctaNet Technologies
 
-- Designed and developed responsive web applications.
-- Built reusable React.js components.
-- Developed REST APIs and integrated backend services.
-- Worked with MongoDB and MySQL databases.
-- Followed software engineering best practices for maintainable applications.
+* Developed responsive web interfaces for web applications.
+* Built reusable components using React.js.
+* Worked with frontend technologies including HTML, CSS, JavaScript, and React.
+* Integrated application functionality with backend services.
+* Worked with databases and REST APIs.
+* Followed clean and maintainable development practices.
 
 ---
 
 # 🚀 Featured Projects
 
+## 🛒 E-Commerce Web Application
+
+A modern e-commerce application focused on delivering a smooth and responsive shopping experience.
+
+### Technologies
+
+**React.js • JavaScript • Tailwind CSS • Node.js • Express.js • MongoDB**
+
+### Features
+
+* 🛍️ Product browsing
+* 🔎 Product search & filtering
+* 🛒 Shopping cart
+* 🔐 User authentication
+* 📦 Order management
+* 💳 Payment integration
+* 📱 Responsive design
+* ⚡ Modern React UI
+
+🔗 **Live Demo:** YOUR_LIVE_LINK
+
+🔗 **Repository:** YOUR_REPO_LINK
+
+---
+
+## 🎨 Developer Portfolio
+
+A responsive personal portfolio website designed to showcase my development skills, projects, experience, and technical journey.
+
+### Technologies
+
+**React.js • JavaScript • Tailwind CSS • Vite**
+
+### Features
+
+* Responsive UI
+* Modern animations
+* Project showcase
+* Skills section
+* Experience section
+* Contact section
+* Mobile-friendly design
+
+🔗 **Live Demo:** YOUR_LIVE_LINK
+
+🔗 **Repository:** YOUR_REPO_LINK
+
+---
+
 ## 🏦 Online Banking System
 
-Enterprise-level banking application developed using **Spring Boot** and **React.js** featuring secure authentication, role-based authorization, account management, fund transfers, transaction history, and RESTful APIs.
+A full-stack banking application demonstrating modern frontend development combined with a secure backend architecture.
 
 ### Technologies
 
-Java • Spring Boot • Hibernate • React.js • MySQL • Spring Security • JWT
+**React.js • Java • Spring Boot • Hibernate • MySQL • REST API**
 
-⭐ Features
+### Features
 
-- Secure Authentication
-- Role-Based Authorization
-- Fund Transfer
-- Transaction History
-- REST APIs
-- Responsive Dashboard
+* 🔐 Authentication
+* 👤 User management
+* 💰 Account management
+* 💸 Fund transfers
+* 📊 Transaction history
+* 🔗 REST API integration
+* 📱 Responsive dashboard
 
-🔗 Repository: YOUR_LINK
+🔗 **Repository:** YOUR_REPO_LINK
 
 ---
 
-## 🛒 E-Commerce Platform
+## ✅ Task Management Application
 
-A scalable MERN Stack e-commerce platform featuring secure user authentication, product management, category filtering, shopping cart, payment integration, and an admin dashboard.
+A task management application designed to help users organize, track, and manage their daily tasks through a clean and responsive interface.
 
 ### Technologies
 
-React.js • Node.js • Express.js • MongoDB • JWT
+**React.js • JavaScript • Tailwind CSS • REST API**
 
-⭐ Features
+### Features
 
-- JWT Authentication
-- Shopping Cart
-- Product Management
-- Order Tracking
-- Razorpay / Stripe Integration
-- Admin Dashboard
-- Sales Analytics
+* Create & manage tasks
+* Task status tracking
+* Filtering & sorting
+* Responsive interface
+* API integration
+* Clean component architecture
 
-🔗 Repository: YOUR_LINK
+🔗 **Live Demo:** YOUR_LIVE_LINK
 
----
-
-## ✅ Task Management REST API
-
-Production-ready REST API built using Spring Boot with task management, CRUD operations, deadline tracking, sorting, filtering, and API testing using Postman.
-
-### Technologies
-
-Java • Spring Boot • Spring Data JPA • MySQL • Postman
-
-⭐ Features
-
-- CRUD Operations
-- Task Filtering
-- Deadline Tracking
-- RESTful Architecture
-- API Documentation
-
-🔗 Repository: YOUR_LINK
+🔗 **Repository:** YOUR_REPO_LINK
 
 ---
 
-# 💡 Technical Expertise
+# 💡 Frontend Expertise
 
-✔ Java Full Stack Development
-
-✔ MERN Stack Development
-
-✔ Spring Boot
-
-✔ Hibernate / JPA
-
-✔ Spring Security
-
-✔ JWT Authentication
-
-✔ RESTful API Development
-
-✔ Database Design
-
-✔ MongoDB
-
-✔ MySQL
-
-✔ PostgreSQL
-
-✔ Responsive UI Development
-
-✔ Object-Oriented Programming
-
-✔ Data Structures & Algorithms
-
-✔ Agile Methodologies
-
-✔ Git & GitHub
-
-✔ Clean Code Principles
+* ⚛️ React.js
+* 🟨 JavaScript
+* 🎨 Tailwind CSS
+* 🌐 HTML5 & CSS3
+* 📱 Responsive Web Design
+* 🧩 Reusable Components
+* 🔗 REST API Integration
+* 🧭 React Router
+* ⚡ Vite
+* 🎯 UI/UX Implementation
+* 🔧 Git & GitHub
+* 🚀 Vercel Deployment
 
 ---
 
-# 📚 Currently Learning
+# 🔌 Full-Stack Knowledge
 
-- Microservices Architecture
+Although my primary focus is **frontend engineering**, I also understand the technologies behind modern web applications:
 
-- Docker
+**Node.js • Express.js • MongoDB • Java • Spring Boot • MySQL • PostgreSQL • REST APIs • JWT Authentication**
 
-- Kubernetes
+This helps me build frontend applications that integrate effectively with real-world backend systems.
 
-- AWS Cloud
+---
 
-- System Design
+# 📚 Currently Improving
 
-- CI/CD Pipelines
+🚀 Advanced React.js
+
+🟨 Modern JavaScript
+
+⚡ Frontend Performance Optimization
+
+🎨 Advanced Tailwind CSS
+
+🧩 Scalable Component Architecture
+
+🔐 Authentication & API Integration
+
+📱 Responsive & Accessible Interfaces
 
 ---
 
@@ -275,43 +315,29 @@ Java • Spring Boot • Spring Data JPA • MySQL • Postman
 
 ---
 
-# 💻 Coding Profiles
+# 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, building modern web experiences, and exploring opportunities in **Frontend Engineering**.
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://www.linkedin.com/in/govind-chaknalwar-b35278215/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="mailto:gchaknalwar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in collaborating on impactful software projects and exploring Full Stack or Java Developer opportunities.
-
-📧 **Email:**  
-**gchaknalwar@gmail.com**
-
-💼 **LinkedIn:**  
-**linkedin.com/in/govind-chaknalwar-b35278215**
-
-⭐ If you like my work, consider giving a star to my repositories!
-
----
-
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### 🚀 Building. Learning. Creating.
+
+**Thanks for visiting my profile!**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
